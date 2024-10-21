@@ -1,0 +1,44 @@
+﻿Step-1:
+=========================================================
+python -m venv yolo
+
+
+python -m venv <name>
+
+
+env: yolo
+
+
+whenever we run this a folder will created with name yolo
+
+
+this folder will created is :
+    The directory we ran above syntax
+
+
+If you want you can run the above syntax in any directory
+=========================================================
+Step-2:
+  In that folder
+    Yolo
+      Scripts
+        activate
+
+
+========================================================
+Step-3:
+   So we need to change the directory till Scripts
+=======================================================
+Step-4:
+   now type activate
+
+
+    we can see our env name : yolo
+
+
+
+
+====================================================
+pls download the ANN model I just uploaded
+and run 
+=====================================================
